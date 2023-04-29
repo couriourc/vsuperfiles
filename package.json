@@ -1,0 +1,15 @@
+{
+  "name": "vsuperfiles",
+  "version": "0.0.1",
+  "description": "三合一解决文件上传",
+  "publisher": "couriorc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Vue 指令","多文价夹","多文件","文件上传"],
+  "homepage": "https://github.com/couriourc/vsuperfiles.git",
+  "author": "couriorc@godakid@outlook.com",
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
